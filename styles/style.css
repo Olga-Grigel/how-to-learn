@@ -201,6 +201,8 @@
   background-color: #1f1f1f;
   position: relative;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
 }
 .table__cell_theme_dark {
   margin-top: 80px;
@@ -215,6 +217,12 @@
   background-size: cover;
   width: 877px;
   height: 877px;
+}
+.section-title_theme_dark {
+  z-index: 1;
+}
+.section-subtitle_theme_dark {
+  z-index: 1;
 }
 
 .footer {
