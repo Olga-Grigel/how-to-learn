@@ -5,8 +5,6 @@
   text-decoration: none;
   color: #2f80ed;
   transition: opacity 1s linear 1s;
-  position: absolute;
-
 }
 .khan__book-link:hover {
   opacity: 0.5;
