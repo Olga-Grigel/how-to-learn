@@ -1,5 +1,6 @@
 .khan {
   padding-top: 105px;
-  width: 80%;
-  margin: auto;
+  display: flex;
+  background-color: #f2f2f2;
+  margin: 0;
 }
